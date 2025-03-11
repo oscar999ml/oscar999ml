@@ -1,5 +1,5 @@
 # ¡Hola, soy Kevin Oscar Mamani Laura! 👋
-
+<p style="color: red; font-size: 20px;">¡Hola, soy Kevin Oscar Mamani Laura!</p>
 ## Sobre mí
 - 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
 - 🌱 Aprendiendo más sobre **Java**, **C++**, **Python** y desarrollo de software en general.
