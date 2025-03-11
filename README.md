@@ -4,7 +4,7 @@
 - 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
 - 🌱 Aprendiendo más sobre **Java**, **C++**, **Python** y desarrollo de software en general.
 - 👯 Busco colaborar en proyectos interesantes relacionados con desarrollo backend, automatización y machine learning.
-- 📫 Cómo contactarme: [oscar999ml@example.com](mailto:oscar999ml@example.com)
+<!-- - 📫 Cómo contactarme: [oscar999ml@example.com](mailto:oscar999ml@example.com) -->
 - ⚡ Fun fact: ¡Me encanta resolver problemas complejos y aprender nuevas tecnologías!
 
 ---
