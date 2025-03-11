@@ -1,4 +1,5 @@
 
+![Banner](https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C%2B%2B/Kagamihara_Nadeshiko_CPP.png)
 
 ## A passionate developer Oscar ML👋 
 
@@ -38,14 +39,12 @@
     />
   </a>
 </p>
-## 🏆 Trofeos de GitHub
 
 ![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=oscar999ml&theme=onedark&no-frame=true&row=1&column=7)
 
 
-## 🎨 Banner Personalizado
 
-![Banner](https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C%2B%2B/Kagamihara_Nadeshiko_CPP.png)
+
 
 ---
 
