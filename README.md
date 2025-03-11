@@ -45,7 +45,7 @@
 
 ## 🎨 Banner Personalizado
 
-![Banner](http://calcularimc.wuaze.com/)
+![Banner](https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C%2B%2B/Kagamihara_Nadeshiko_CPP.png)
 
 ---
 
