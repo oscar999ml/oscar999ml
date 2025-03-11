@@ -1,6 +1,6 @@
 
 
-## A passionate frontend developer Kevin Oscar Mamani Laura! 👋 
+## A passionate developer Kevin Oscar Mamani Laura! 👋 
 
 ## Sobre mí
 - 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
