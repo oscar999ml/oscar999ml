@@ -1,6 +1,6 @@
 
 
-## A passionate developer Kevin Oscar Mamani Laura! 👋 
+## A passionate developer Oscar ML👋 
 
 ## Sobre mí
 - 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
