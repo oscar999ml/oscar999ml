@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/FreddyMachaca">
+  <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=FreddyMachaca&show_icons=true&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=oscar999ml&show_icons=true&theme=dark"
     />
   </a>
-  <a href="https://github.com/FreddyMachaca">
+  <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyMachaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar999ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     />
   </a>
   </a>
