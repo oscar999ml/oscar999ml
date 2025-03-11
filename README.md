@@ -15,7 +15,6 @@
 
 
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -23,14 +22,14 @@
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=oscar999ml&show_icons=true&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=oscar999ml&show_icons=true&theme=orange"
     />
   </a>
   <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar999ml&theme=radical&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar999ml&theme=orange&layout=compact"
     />
   </a>
 </p>
@@ -40,13 +39,10 @@
     <img
       align="center"
       height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=oscar999ml&theme=radical"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oscar999ml&theme=orange"
     />
   </a>
 </p>
-
----
-
 ## 🏆 Trofeos de GitHub
 
 ![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=oscar999ml&theme=radical&no-frame=true&row=1&column=7)
