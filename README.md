@@ -45,25 +45,8 @@
 </p>
 ## 🏆 Trofeos de GitHub
 
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=oscar999ml&theme=radical&no-frame=true&row=1&column=7)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=oscar999ml&theme=onedark&no-frame=true&row=1&column=7)
 
----
-
-## 🌟 Proyectos Destacados
-
-- [Proyecto 1](https://github.com/oscar999ml/proyecto1): Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/oscar999ml/proyecto2): Descripción breve del proyecto.
-- [Proyecto 3](https://github.com/oscar999ml/proyecto3): Descripción breve del proyecto.
-
----
-
-## 📫 Cómo contactarme
-
-- [LinkedIn](https://linkedin.com/in/tuperfil)
-- [Twitter](https://twitter.com/tuperfil)
-- Correo: [oscar999ml@example.com](mailto:oscar999ml@example.com)
-
----
 
 ## 🎨 Banner Personalizado
 
@@ -71,6 +54,3 @@
 
 ---
 
-## ⚡ Fun Fact
-
-¡Me encanta programar mientras escucho música clásica! 🎵
