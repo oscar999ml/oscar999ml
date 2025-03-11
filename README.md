@@ -50,7 +50,7 @@
 
 ## 🎨 Banner Personalizado
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%91%8B)
+![Banner](http://calcularimc.wuaze.com/)
 
 ---
 
