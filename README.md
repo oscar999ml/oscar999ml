@@ -3,7 +3,6 @@
 
 ## A passionate developer Oscar ML👋 
 
-## Sobre mí
 - 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
 - 🌱 Aprendiendo más sobre **Java**, **C++**, **Python** y desarrollo de software en general.
 
