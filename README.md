@@ -13,36 +13,96 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+# ¡Hola, soy Kevin Oscar Mamani Laura! 👋
 
--->
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br/><br/><br/><br/><br/>
-# 📊 GitHub Stats:
+## Sobre mí
+- 🔭 Actualmente trabajando en proyectos personales y colaborando en código abierto.
+- 🌱 Aprendiendo más sobre **Java**, **C++**, **Python** y desarrollo de software en general.
+- 👯 Busco colaborar en proyectos interesantes relacionados con desarrollo backend, automatización y machine learning.
+- 📫 Cómo contactarme: [oscar999ml@example.com](mailto:oscar999ml@example.com)
+- ⚡ Fun fact: ¡Me encanta resolver problemas complejos y aprender nuevas tecnologías!
+
+---
+
+## 💻 Tech Stack
+
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frameworks y Herramientas
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=oscar999ml&show_icons=true&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=oscar999ml&show_icons=true&theme=radical"
     />
   </a>
   <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar999ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar999ml&theme=radical&layout=compact"
     />
   </a>
-  </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/FreddyMachaca">
+  <a href="https://github.com/oscar999ml">
     <img
       align="center"
       height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=FreddyMachaca&theme=dark&hide_border=false&layout=compact&theme=dark"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oscar999ml&theme=radical"
     />
   </a>
 </p>
+
+---
+
+## 🏆 Trofeos de GitHub
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=oscar999ml&theme=radical&no-frame=true&row=1&column=7)
+
+---
+
+## 🌟 Proyectos Destacados
+
+- [Proyecto 1](https://github.com/oscar999ml/proyecto1): Descripción breve del proyecto.
+- [Proyecto 2](https://github.com/oscar999ml/proyecto2): Descripción breve del proyecto.
+- [Proyecto 3](https://github.com/oscar999ml/proyecto3): Descripción breve del proyecto.
+
+---
+
+## 📫 Cómo contactarme
+
+- [LinkedIn](https://linkedin.com/in/tuperfil)
+- [Twitter](https://twitter.com/tuperfil)
+- Correo: [oscar999ml@example.com](mailto:oscar999ml@example.com)
+
+---
+
+## 🎨 Banner Personalizado
+
+![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%91%8B)
+
+---
+
+## ⚡ Fun Fact
+
+¡Me encanta programar mientras escucho música clásica! 🎵
